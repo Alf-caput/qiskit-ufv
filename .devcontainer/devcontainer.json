@@ -1,5 +1,4 @@
 {
-    // "image": "alfcaput/debian-git-python-vscode:slim-bullseye",
     "dockerFile": "../Dockerfile",
     "workspaceFolder": "/root/workspace",
     "runArgs": [

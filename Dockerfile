@@ -1,5 +1,3 @@
-# https://hub.docker.com/r/alfcaput/debian-git-python-vscode
-# docker pull alfcaput/debian-git-python-vscode
 FROM python:slim-bullseye
 
 RUN apt-get update && \
