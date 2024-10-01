@@ -4,7 +4,7 @@ FROM python:slim-bullseye
 
 RUN apt-get update && \
     apt-get install -y \
-    graphviz
+    graphviz \
     git
 
 WORKDIR /root/workspace
