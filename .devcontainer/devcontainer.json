@@ -1,5 +1,6 @@
 {
-    "image": "alfcaput/debian-git-python-vscode:slim-bullseye",
+    // "image": "alfcaput/debian-git-python-vscode:slim-bullseye",
+    "dockerFile": "../Dockerfile",
     "workspaceFolder": "/root/workspace",
     "runArgs": [
         "--name", "${localWorkspaceFolderBasename}-container"
