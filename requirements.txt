@@ -3,3 +3,10 @@ qiskit[visualization]
 qiskit-ibm-runtime
 qiskit-aer
 scikit-learn
+numpy
+tqdm
+matplotlib
+qiskit-machine-learning
+torch
+qiskit-optimization
+yfinance
